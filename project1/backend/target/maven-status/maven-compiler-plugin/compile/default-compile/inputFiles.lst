@@ -1,0 +1,14 @@
+D:\T_project\project1\backend\src\main\java\com\sspu\config\RedisConfig.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\impl\QuestionServiceImpl.java
+D:\T_project\project1\backend\src\main\java\com\sspu\entity\AnswerResponse.java
+D:\T_project\project1\backend\src\main\java\com\sspu\controller\QuestionController.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\AiService.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\AnswerService.java
+D:\T_project\project1\backend\src\main\java\com\sspu\Application.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\impl\AiServiceImpl.java
+D:\T_project\project1\backend\src\main\java\com\sspu\entity\Answer.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\QuestionService.java
+D:\T_project\project1\backend\src\main\java\com\sspu\config\CorsConfig.java
+D:\T_project\project1\backend\src\main\java\com\sspu\service\impl\AnswerServiceImpl.java
+D:\T_project\project1\backend\src\main\java\com\sspu\entity\QuestionRequest.java
+D:\T_project\project1\backend\src\main\java\com\sspu\entity\Question.java
